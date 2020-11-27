@@ -1,0 +1,7 @@
+# Default ErrorDocument errors
+ErrorDocument 400 default
+ErrorDocument 401 default
+ErrorDocument 403 default
+ErrorDocument 404 /404.html
+ErrorDocument 500 default
+ErrorDocument 503 default
